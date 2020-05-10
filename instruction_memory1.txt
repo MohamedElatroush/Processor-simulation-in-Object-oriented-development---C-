@@ -1,0 +1,3 @@
+Location 0 in instruction memory: ADD 2,3,0
+Location 1 in instruction memory: MUL R15,10,80
+Location 2 in instruction memory: 

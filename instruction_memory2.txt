@@ -1,0 +1,14 @@
+Location 0 in instruction memory: ADD 10,20,50
+Location 1 in instruction memory: ADD 2,3,40
+Location 2 in instruction memory: LE R50,R40,60
+Location 3 in instruction memory: JMP 8
+Location 4 in instruction memory: ADD 1,2,70
+Location 5 in instruction memory: ADD R2,R15,23
+Location 6 in instruction memory: MUL 10,50,100
+Location 7 in instruction memory: NEG R40,110
+Location 8 in instruction memory: NEG R50,120
+Location 9 in instruction memory: MUL R0,R0,0
+Location 10 in instruction memory: JMP0 R0,12
+Location 11 in instruction memory: ADD R1,R2,3
+Location 12 in instruction memory: NEG R100,1000
+Location 13 in instruction memory: 
